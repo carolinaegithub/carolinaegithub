@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Carolina <3
-- 🌱 I’m currently learning Laravel 
+- 🌱 I’m currently learning Laravel, Tailwindcss and more
 - 📫 You can contact with a message https://www.instagram.com/yaas_cme/
 
 <!---

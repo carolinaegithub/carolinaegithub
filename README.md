@@ -1,15 +1,19 @@
-<h2> HI! 👋🏻 I'm Carolina 🤠 Jr Web Developer </h2>
+<h2> HI! 👋🏻 I'm Carolina 👩🏻‍💻 Jr Web Developer </h2>
 
 <h3>I'm currently Learning 💻 </h3>
 
 <strong> And working on Poly & Bark Project 💛  </strong>
 
-<i> Technologies: </i> 
+ Technologies: 🤠  
 
 ![Tailwindcss](nuxtjs.png) 
 ![Tailwindcss](tailwindcss.png) 
 ![Tailwindcss](laravel.png)
 ![Tailwindcss](vuejs.png) 
+
+How to reach me? <br>
+
+Email: carolinaespinal2000@gmail.com 📩
 
 
 <!---

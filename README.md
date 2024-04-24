@@ -1,9 +1,8 @@
 HI! 👋🏻 I'm Carolina 🤠
 
 I'm currently working on Poly & Bark Project 💛 
-Technologies:
 
-![alt text](https://github.com/carolinaegithub/images/blob/[branch]/tailwindcss.png?raw=true)
+Technologies:
 
 <!---
 carolinaegithub/carolinaegithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

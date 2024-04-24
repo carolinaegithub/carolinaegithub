@@ -9,6 +9,7 @@
 ![Tailwindcss](nuxtjs.png) 
 ![Tailwindcss](tailwindcss.png) 
 ![Tailwindcss](laravel.png)
+![Tailwindcss](javascript.png) 
 ![Tailwindcss](vuejs.png) 
 
 How to reach me? <br>

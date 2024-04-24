@@ -6,11 +6,14 @@
 
  Technologies: 🤠  
 
-![Tailwindcss](nuxtjs.png) 
+
+![vuejs](vuejs.png) 
 ![Tailwindcss](tailwindcss.png) 
-![Tailwindcss](laravel.png)
-![Tailwindcss](javascript.png) 
-![Tailwindcss](vuejs.png) 
+![laravel](laravel.png)
+![javascript](js.png) 
+![nuxtjs](nuxtjs.png) 
+
+
 
 How to reach me? <br>
 

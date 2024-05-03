@@ -15,7 +15,7 @@
 
 
 
-How to reach me? <br>
+How to reach me: <br>
 
 Email: carolinaespinal2000@gmail.com 📩
 
